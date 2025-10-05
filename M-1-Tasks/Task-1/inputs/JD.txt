@@ -1,0 +1,30 @@
+Job Title: Data Analyst
+
+Location: Remote
+
+About the Role:
+We are seeking a highly motivated Data Analyst to join our analytics team. 
+The candidate will be responsible for collecting, cleaning, analyzing, 
+and visualizing data to support business decisions.
+
+Key Responsibilities:
+- Collect and preprocess structured and unstructured data from multiple sources
+- Perform exploratory data analysis (EDA) and generate insights
+- Develop reports and dashboards using tools like Tableau or Power BI
+- Work with cross-functional teams to understand requirements
+- Provide data-driven recommendations to improve efficiency
+
+Requirements:
+- Strong knowledge of Python and libraries such as Pandas, NumPy, and Matplotlib
+- Experience with SQL for data extraction and manipulation
+- Familiarity with data visualization tools (Tableau, Power BI, or similar)
+- Excellent problem-solving and analytical skills
+- Good written and verbal communication
+
+Preferred Qualifications:
+- Bachelor’s degree in Computer Science, Statistics, or related field
+- Experience with machine learning basics
+- Understanding of cloud platforms (AWS, GCP, Azure) is a plus
+
+Compensation:
+Competitive salary with performance-based bonuses.

@@ -1,0 +1,50 @@
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+SQL
+MySQL
+PostgreSQL
+Oracle
+Tableau
+Power BI
+Excel
+MS Excel
+Data Cleaning
+Data Analysis
+Exploratory Data Analysis
+EDA
+Data Visualization
+Machine Learning
+Time Series
+Forecasting
+Statistical Analysis
+Data Modeling
+Data Engineering
+ETL
+Big Data
+Hadoop
+Spark
+AWS
+GCP
+Azure
+Docker
+Git
+Regression Analysis
+Classification
+Natural Language Processing
+Deep Learning
+Data Warehousing
+Dashboarding
+Automation
+Data Pipeline
+SQLAlchemy
+Tableau Desktop
+Presentation Skills
+Communication
+Problem Solving
+Critical Thinking
+Teamwork
+Report Writing
